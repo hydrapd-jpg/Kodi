@@ -1,2 +1,2 @@
-# Kodi
+# Anime
 Streaming 
